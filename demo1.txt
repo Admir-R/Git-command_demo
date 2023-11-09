@@ -1,0 +1,5 @@
+git demo1 started from command prompt
+
+interesting
+
+....
