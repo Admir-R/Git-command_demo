@@ -3,3 +3,5 @@ things to do
 practice git
 
 java
+
+do these things
